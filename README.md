@@ -64,4 +64,3 @@ Pamukkale Üniversitesi öğrencileri tarafindan bilgi paylaşimi amacı ile ver
 ```
 * every commit should be a pull request otherwise will not be accepted
 * every lecture should have a readme.md file
-v
