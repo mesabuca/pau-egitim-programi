@@ -43,7 +43,7 @@ Pamukkale Üniversitesi öğrencileri tarafindan bilgi paylaşimi amacı ile ver
 [Özgür Yazılım, Teknokent ve Hackerspace]: https://github.com/PauEducation/pau-egitim-programi/tree/master/lectures/ozgur-yazilim-teknokent-ve-hackerspace
 [Web Nasıl Çalışır]: https://github.com/PauEducation/pau-egitim-programi/tree/master/lectures/web-nasil-calisir
 [Python 101]: https://github.com/PauEducation/pau-egitim-programi/tree/master/lectures/python-101
-[Linux'a Giriş]: https://github.com/PauEducation/pau-egitim-programi/blob/master/lectures/linuxa-giris/readme.md
+[Linux'a Giriş]: https://github.com/PauEducation/pau-egitim-programi/blob/master/lectures/linuxa-giris/readme.org
 [Apple Platformuna Uygulama Geliştirme]: https://github.com/PauEducation/pau-egitim-programi/blob/master/lectures/apple-platformuna-uygulama-gelistirme/readme.md
 [Temel Git Egitimi]: http://www.git-scm.com
 [Android'se Gelirim]: https://github.com/PauEducation/pau-egitim-programi/tree/master/lectures/androidse-gelirim
