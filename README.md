@@ -1,6 +1,6 @@
 # PAU-Egitim
 
-Pamukkale Universitesi öğrencileri tarafindan bilgi paylaşimi amaci ile verilen dersler ve bu derslerin dokumanlari
+Pamukkale Üniversitesi öğrencileri tarafindan bilgi paylaşimi amacı ile verilen dersler ve bu derslerin dökümanları
 
 #Ajanda
 
@@ -21,7 +21,7 @@ Pamukkale Universitesi öğrencileri tarafindan bilgi paylaşimi amaci ile veril
 | A0455 Lab5 && A0410 (Ends. Müh.) |        09.11.2015 | 18:00 - 19:30 | Pazartesi | [Algoritmaya Dayalı Problem Çözüm Yöntemleri]                                                                                    | [Baran Kurtuluş Ozan]
 
 [Bilal Arslan]: https://github.com/arslanbilal
-[Necati Kartal]: https://github.com/necatikartal 
+[Necati Kartal]: https://github.com/necatikartal
 [Kemal Kanok]: https://github.com/kemalkanok
 [Mustafa Tosun]: https://github.com/mustafatosun
 [İsmail Akbudak]: https://github.com/ismailakbudak
@@ -50,7 +50,7 @@ Pamukkale Universitesi öğrencileri tarafindan bilgi paylaşimi amaci ile veril
 
 
 #Rules For Contribution
-* name should be dash based for ex: 
+* name should be dash based for ex:
 ```temel-git-egitimi```
 * folder structure of project
 ```
@@ -64,3 +64,4 @@ Pamukkale Universitesi öğrencileri tarafindan bilgi paylaşimi amaci ile veril
 ```
 * every commit should be a pull request otherwise will not be accepted
 * every lecture should have a readme.md file
+v
