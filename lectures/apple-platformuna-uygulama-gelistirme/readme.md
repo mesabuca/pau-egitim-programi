@@ -2,8 +2,8 @@
 
 [Sunuma buradan](http://www.slideshare.net/BilalArslanAslan/apple-platformuna-uygulama-gelitirme) ulaşabilirsiniz.
 
-[about me](http://bilalarslan.me)
-
+1. [Swift ile uygulama gelistirmek icin ucretsiz online kurs listesi](http://www.hongkiat.com/blog/swift-programming-language/)
+2. [Objective-C ile uygulama gelistirmek icin ucretli/ucretsiz kurs listesi](http://equallysimple.com/best-objective-c-ios-developer-video-tutorials-online/)
 
 ##apple platformuna giriş iOS OS X WatchOS TvOS
 bilal arslan<br>
@@ -119,4 +119,4 @@ Swift, iOS ve Mac uygulamaları geliştirmek için Apple tarafından oluşturula
 • gelecek hakkında …<br>
 
 ###teşekkürler 
-#####bilal arslan
+#####[bilal arslan](http://bilalarslan.me)
