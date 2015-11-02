@@ -4,19 +4,19 @@
 > * Kazanımlarınızı Programı inceleyerek tahmin edebilirsiniz.
 
 #### Sunum İçeriği 01  09 Kasım 2015 ~ 120dk
-> * Giriş ve Dersin İşlenme Metodu                    
-> * Temel Bilgiler                                    
-> * Problem Tasarımı                                  
-> * Problem Çeşitleri                                 
-> * Algoritmalara Bakış                               
-    - Pseudocode Tasarımı               
-> * Basit Otomatlar                                   
-    - Analiz ve Örnekler                              
-> * Yazılım Mühendisliği                              
-    - Kısaca Yazılım Mühendisliği ve Popüler Metotlar 
-> * Küçük gruplar ile çalışma yöntemleri            
+> * Giriş ve Dersin İşlenme Metodu
+> * Temel Bilgiler
+> * Problem Tasarımı
+> * Problem Çeşitleri
+> * Algoritmalara Bakış
+    - Pseudocode Tasarımı
+> * Basit Otomatlar
+    - Analiz ve Örnekler
+> * Yazılım Mühendisliği
+    - Kısaca Yazılım Mühendisliği ve Popüler Metotlar
+> * Küçük gruplar ile çalışma yöntemleri
 
-> * ARA (10dk)   
+> * ARA (10dk)
 
 > * Uygulama / Workshop  Algoritmik Problem Çözümü Takım Çalışması - 01
 > * Katılım sayısına göre uygulama yapılacağından;
@@ -31,53 +31,53 @@
     - Katılımcılar katılımcı sayısına göre gruplandırılacaktır. [24->4 42->6 vb.]
     - Takımlar ve takım liderleri seçilecektir. [Kırmızı Takım - Yeşil Takım gibi]
     - En basitten karmaşığa adım adım problemler görev olarak verilecektir.
-    - Takım liderleri çalıştıkları takım arkadaşlarının iyi yönlerini kapalı olarak teslim eder.  
+    - Takım liderleri çalıştıkları takım arkadaşlarının iyi yönlerini kapalı olarak teslim eder.
     - Her turda takım liderleri sabit kalmak üzere takım üyeleri farklı gruplara dağıtılacaktır.
-    - Her turda Kazanan takım salonda tek çalışmayı hak edecektir. 
+    - Her turda Kazanan takım salonda tek çalışmayı hak edecektir.
     - %75 ve üstü başarı yakalayan takım liderleri sonraki çalışmada görevlerini sürdüreceklerdir.
-  * Problem Konuları 
+  * Problem Konuları
     - 1. Binary Ops.
-    - 2. Arithmetic  
-    - 3. Order 
-    - 4. Memory 
-    
-    
-    
-    
+    - 2. Arithmetic
+    - 3. Order
+    - 4. Memory
+
+
+
+
 #### Sunum İçeriği 02  ~ 120dk
-> * 01 Uygulamasından Kazanımlar                                  
-> * Problem Tasarımı                                  
-> * Kompleks Problem Çeşitleri                                 
-> * Sıralama ve Arama Algoritmaları                            
-    - Örnek Problem Çözümü               
-> * Klasik Otomatlar                                   
-    - Analiz ve Örnekler                              
-> * Yazılım Mühendisliği      
+> * 01 Uygulamasından Kazanımlar
+> * Problem Tasarımı
+> * Kompleks Problem Çeşitleri
+> * Sıralama ve Arama Algoritmaları
+    - Örnek Problem Çözümü
+> * Klasik Otomatlar
+    - Analiz ve Örnekler
+> * Yazılım Mühendisliği
     - Çevik Yazılım Mühendisliği
       - Scrum Metodu
-> * Takım lideri olmak                      
+> * Takım lideri olmak
 
-> * ARA (10dk)   
+> * ARA (10dk)
 
 > * Uygulama / Workshop  Algoritmik Problem Çözümü Takım Çalışması - 02
   * Yöntem ilk sunumdakine benzer.
-  * Problem Konuları 
+  * Problem Konuları
     - 1. Binary Ops.
-    - 2. Arithmetic  
-    - 3. Order 
-    - 4. Memory 
+    - 2. Arithmetic
+    - 3. Order
+    - 4. Memory
     - 5. Repeat
     - 6. Text
     - 7. Mini Games
     - 8. A Complex Problem
     - 9. A Real World Problem
-    - 10.A CS Problem 
-    
-    
-    
-    
+    - 10.A CS Problem
+
+
+
+
 #### Sunum İçeriği 03
-> * 02 Uygulamasından Kazanımlar 
+> * 02 Uygulamasından Kazanımlar
 > * Heuristics
 > * Project Euler
 > * Uygulama / Workshop  Algoritmik Problem Çözümü Takım Çalışması - 03
@@ -85,7 +85,7 @@
 
 
 #### Sunum İçeriği 04
-> * 03 Uygulamasından Kazanımlar 
+> * 03 Uygulamasından Kazanımlar
 > * Veri Yapıları
 > * Project Euler
 > * Uygulama / Workshop  Algoritmik Problem Çözümü Takım Çalışması - 04
@@ -101,14 +101,14 @@
 
 
 #### Sunum İçeriği 06
-> * 05 Uygulamasından Kazanımlar 
+> * 05 Uygulamasından Kazanımlar
 > * Algorithmic efficiency
 > * Uygulama / Workshop  Algoritmik Problem Çözümü Takım Çalışması - 06
 
 
 
 #### Sunum İçeriği 07
-> * 06 Uygulamasından Kazanımlar 
+> * 06 Uygulamasından Kazanımlar
 > * Graph Algorithms
 > * Code Wars
 > * Uygulama / Workshop  Algoritmik Problem Çözümü Takım Çalışması - 07
@@ -116,14 +116,14 @@
 
 
 #### Sunum İçeriği 08
-> * 07 Uygulamasından Kazanımlar 
+> * 07 Uygulamasından Kazanımlar
 > * Bonus: Hashing. Cryptography, Error Detection, Efficient look-up.
 > * Uygulama / Workshop  Algoritmik Problem Çözümü Takım Çalışması - 08
 
 
 
 #### Sunum İçeriği 09
-> * 08 Uygulamasından Kazanımlar 
+> * 08 Uygulamasından Kazanımlar
 > * Dynamic Programming
 > * Uygulama / Workshop  Algoritmik Problem Çözümü Takım Çalışması - 09
 
