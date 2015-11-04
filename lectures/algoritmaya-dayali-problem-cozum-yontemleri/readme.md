@@ -3,7 +3,7 @@
 > * Dokuz farklı oturumda toplam 12 saat interaktif çalışma yapılacaktır.
 > * Kazanımlarınızı Programı inceleyerek tahmin edebilirsiniz.
 
-#### Sunum İçeriği 01  09 Kasım 2015 ~ 120dk
+#### Sunum İçeriği 01  11 Kasım Çarşamba 2015- Workshop ~ 120dk
 > * Giriş ve Dersin İşlenme Metodu
 > * Temel Bilgiler
 > * Problem Tasarımı
