@@ -1,4 +1,5 @@
 # İş Hayatına Dair Tecrübeler Ve Tavsiyeler
+- İsmail Akbudak, Lab2023'de Yazılım Geliştirici, PAÜ'de Yüksek Lisans Öğrencisi
 
 ### 1.Sınıf
 - Avrupa Gençlik Derneği - Temel HTML, CSS
