@@ -19,7 +19,7 @@ Pamukkale Üniversitesi öğrencileri tarafindan bilgi paylaşimi amacı ile ver
 | A0455 Lab5 && A0410 (Ends. Müh.) |        05.11.2015 | 18:00 - 19:30 | Perşembe | [İş Hayatına Dair Tecrübeler ve Tavsiyeler]                                                                        | [İsmail Akbudak]                   |
 | A0455 Lab5 && A0410 (Ends. Müh.) |        06.11.2015 | 18:00 - 19:30 | Cuma | [Ruby 101]                                                                       | [Leyla Kapi]                   |
 | A0455 Lab5 && A0410 (Ends. Müh.) |        09.11.2015 | 18:00 - 19:30 | Pazartesi | [ - ]                                                                                    | [ - ]
-| A0455 Lab5 && A0410 (Ends. Müh.) |        10.11.2015 | 18:15 - 18:45 | Salı | [ Github Pages - Kendi Websitenizi Github Kullanarak Oluşturun - Uygulama ]                                                                                    | [ Baran Kurtuluş Ozan ]
+| A0455 Lab5 && A0410 (Ends. Müh.) |        10.11.2015 | 18:15 - 18:45 | Salı | Github Pages - Kendi Websitenizi Github Kullanarak Oluşturun - Uygulama                                                                                    | [Baran Kurtuluş Ozan]
 | A0455 Lab5 && A0410 (Ends. Müh.) |        11.11.2015 | 18:15 - 20:30 | Çarşamba | [Algoritmaya Dayalı Problem Çözüm Yöntemleri]                                                                                    | [Baran Kurtuluş Ozan]
 
 [Bilal Arslan]: https://github.com/arslanbilal
