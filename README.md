@@ -52,6 +52,7 @@ Pamukkale Üniversitesi öğrencileri tarafindan bilgi paylaşimi amacı ile ver
 
 
 #Rules For Contribution
+
 * name should be dash based for ex:
 ```temel-git-egitimi```
 * folder structure of project
